@@ -65,7 +65,7 @@ We value **open-source** principles and are committed to **transparency and coll
 **Want to collaborate, contribute, or learn more?**
 
 - 🌐 [Visit Our Website](https://www.loop.com.na)
-- 📬 Email us: [info@loop.com.na](mailto:info@loop.com.na)
+- 📬 Email us: [info@loop.com.na](mailto:hello@loop.com.na)
 - 📱 Follow us: _coming soon_
 
 ---
